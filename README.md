@@ -6,17 +6,11 @@ A completed Bio-sensor project including software and hardware solutions; also d
 
 ## Frameworks
 
-* [IoT Development Framework (ESP-IDF)](https://github.com/espressif/esp-idf)
-* [Arduino Core for ESP32](https://github.com/espressif/arduino-esp32)
+* HDF(Healthcare Development Framework) project: [https://github.com/feelkit/HDF](https://github.com/feelkit/HDF)
 
 ## Solutions
-* [AT Commands Firmware (ESP-AT)](https://github.com/espressif/esp-at)
-* [Communication Processor Firmware (ESP-HOSTED)](https://github.com/espressif/esp-hosted)
-* [RainMaker](https://github.com/espressif/esp-rainmaker)
-* [Connectionless Wi-Fi Communication Protocol (ESP-NOW)](https://github.com/espressif/esp-now)
+*[https://github.com/doctortag/bioDemo_labwindows_cvi](https://github.com/doctortag/bioDemo_labwindows_cvi)
 
-To know more about our frameworks, and solutions, see this brief explanation for some of our projects: [Espressif Projects](profile/esp-projects.md).
 
-If you are looking for the official ESP-IDF documentation, click on [this](https://docs.espressif.com/projects/esp-idf/en/latest/esp32/index.html) link and select the ESP32 series you are interested in from the dropdown menu in the top left corner.
+To know more about our frameworks, and solutions, see this brief explanation for some of our projects: [https://github.com/DoctorTag/BIO_SENSOR](https://github.com/DoctorTag/BIO_SENSOR).
 
-:office: To learn about the full range of products and services that Espressif offers, please visit our official website [Espressif](https://www.espressif.com).
