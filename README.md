@@ -6,7 +6,7 @@ A completed Bio-sensor project including software and hardware solutions; also d
 
 ## Frameworks
 
-* HDF(Healthcare Development Framework) project: [https://github.com/feelkit/HDF](https://github.com/feelkit/HDF)
+* HDF(Healthcare Development Framework) project: [https://github.com/doctortag/bio-hdf](https://github.com/doctortag/bio-hdf)
 
 ## Solutions
 *[https://github.com/doctortag/bioDemo_labwindows_cvi](https://github.com/doctortag/bioDemo_labwindows_cvi)
