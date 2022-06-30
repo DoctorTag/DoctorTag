@@ -2,10 +2,7 @@
 
 dTag supports a large variety of open-source projects, including SDKs, components, solutions, and tools, which aim to help developers bring Bio-sensor projects to life.
 
-All of Espressif’s official software, relating to the various series of ESP SoCs including ESP32  and ESP8266, are available on this GitHub site.
-To check out all the series of SoCs from Espressif, please visit our [ESP Product Selector](https://products.espressif.com).
-
-Below you can find a selection of Espressif’s open-source projects. Our full repository list can be found [here](https://github.com/orgs/espressif/repositories).
+A completed Bio-sensor project including software and hardware solutions; also depending on the following projects:
 
 ## Frameworks
 
