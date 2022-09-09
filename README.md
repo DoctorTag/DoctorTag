@@ -14,9 +14,9 @@ A completed Bio-sensor project including software and hardware solutions; also d
 * [Hardware: Wearable Medical Monitor](https://diy.szlcsc.com/p/seanfan/wmmonitor)
 
 ### Application 
-* [Matlab](https://github.com/doctortag/bioDemo_labwindows_cvi)
+* [Matlab](https://github.com/DoctorTag/Matlab_dTag)
 * [Labwindows CVI](https://github.com/doctortag/bioDemo_labwindows_cvi)
-* [Flutter](https://github.com/doctortag/bioDemo_labwindows_cvi)
+* [Flutter](https://github.com/DoctorTag/Flutter_dTag)
 
 
 To know more about our frameworks, and solutions, see this brief explanation for some of our projects: [BioSensor Project](https://github.com/DoctorTag/BIO_SENSOR).
