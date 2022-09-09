@@ -18,6 +18,3 @@ A completed Bio-sensor project including software and hardware solutions; also d
 * [Labwindows CVI](https://github.com/doctortag/bioDemo_labwindows_cvi)
 * [Flutter](https://github.com/DoctorTag/Flutter_dTag)
 
-
-To know more about our frameworks, and solutions, see this brief explanation for some of our projects: [BioSensor Project](https://github.com/DoctorTag/BIO_SENSOR).
-
