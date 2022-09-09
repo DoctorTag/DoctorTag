@@ -11,10 +11,15 @@ A completed Bio-sensor project including software and hardware solutions; also d
 ## Solutions
 
 ### Hardware
-* [Wearable Medical Monitor](https://diy.szlcsc.com/p/seanfan/wmmonitor)
+* [Wearable Medical Monitor using ESP32-S3](https://diy.szlcsc.com/p/seanfan/wmmonitor)
 
 ### Application 
-* [Matlab](https://github.com/DoctorTag/Matlab_dTag)
-* [Labwindows CVI](https://github.com/doctortag/bioDemo_labwindows_cvi)
-* [Flutter](https://github.com/DoctorTag/Flutter_dTag)
+* PC Evaluation Tool using Matlab :
+[https://github.com/DoctorTag/Matlab_dTag](https://github.com/DoctorTag/Matlab_dTag)
+
+* Flutter BioSensor project: [https://github.com/DoctorTag/Flutter_dTag](https://github.com/DoctorTag/Flutter_dTag)
+
+* PC Evaluation Tool using LabWindows CVI :
+[https://github.com/doctortag/bioDemo_labwindows_cvi](https://github.com/doctortag/bioDemo_labwindows_cvi)
+
 
