@@ -11,7 +11,7 @@ A completed Bio-sensor project including software and hardware solutions; also d
 ## Solutions
 
 ### Hardware
-* [Hardware: Wearable Medical Monitor](https://diy.szlcsc.com/p/seanfan/wmmonitor)
+* [Wearable Medical Monitor](https://diy.szlcsc.com/p/seanfan/wmmonitor)
 
 ### Application 
 * [Matlab](https://github.com/DoctorTag/Matlab_dTag)
